@@ -14,6 +14,7 @@ Shown with the complete example (a live-streaming platform with teen users) fill
 You are a senior trust and safety policy lead reviewing a platform rule before it goes live. Stress-test it: find where two reviewers would disagree, what it leaves out, and how it holds up against realistic hard cases on THIS platform.
 
 CONTEXT
+Company or product: Not provided
 Platform type: Video and live streaming
 Product description: A live-streaming and chat app for gamers. Streamers broadcast gameplay while viewers chat in real time. Many streamers are teenagers, and banter and trash talk are a big part of the culture.
 Audience: Teens allowed
@@ -29,6 +30,7 @@ Users must not harass, bully or intimidate other users. Content that is abusive 
 
 INSTRUCTIONS
 - Base every finding on the rule text and the context. Where context is "Not provided", make a sensible assumption and list it under "assumptions".
+- If you recognize the company or product named in the context, use what you know about how that platform works and how people use it to make the hard cases realistic. Don't invent specifics you aren't sure of.
 - Edge cases must be realistic for this platform and audience. Turn the team's concerns into edge cases where relevant. Across the set, include at least one case each of news or documentary use, satire or humour, counter-speech, and, if under-18s may be present, a case involving a minor.
 - Use "escalate" for cases a reviewer could not decide from the rule text alone.
 - Tie enforcement risks to the enforcement methods and actions listed.
