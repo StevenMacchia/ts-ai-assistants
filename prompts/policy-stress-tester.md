@@ -4,7 +4,7 @@
 
 Paste a platform rule and get an instant clarity check in the browser, then an AI review: vague terms, missing exceptions, eight hard edge cases with decisions, enforcement risks, relevant laws, a reviewer checklist and a clearer rewrite.
 
-[Try it live](https://stevenmacchia.github.io/ts-workbench/#policy) · the instant check runs anywhere; the AI review runs on your own Claude account
+[Try it live](https://stevenmacchia.com/ts-workbench/#policy) · the instant check runs anywhere; the AI review runs on your own Claude account
 
 ## The prompt
 

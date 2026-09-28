@@ -4,7 +4,7 @@
 
 Three assistants for policy and enforcement work: stress-test a rule, write an enforcement notice, and get a second opinion on an appeal. A fourth tool builds the transparency report the EU Digital Services Act asks for, section by section for your type of service, with a completeness check and a summary written by Claude. They run on the user's own Claude account, only when they click, and a person always makes the final call.
 
-**[Policy stress-tester](https://stevenmacchia.github.io/ts-workbench/#policy)** · **[Enforcement notice writer](https://stevenmacchia.github.io/ts-workbench/#notice)** · **[Appeal reviewer](https://stevenmacchia.github.io/ts-workbench/#appeal)** · part of [T&S Workbench](https://github.com/stevenmacchia/ts-workbench) · free, no sign-up
+**[Policy stress-tester](https://stevenmacchia.com/ts-workbench/#policy)** · **[Enforcement notice writer](https://stevenmacchia.com/ts-workbench/#notice)** · **[Appeal reviewer](https://stevenmacchia.com/ts-workbench/#appeal)** · part of [T&S Workbench](https://github.com/stevenmacchia/ts-workbench) · free, no sign-up
 
 ![T&S AI Assistants](assets/appeal.png)
 

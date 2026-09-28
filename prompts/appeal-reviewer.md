@@ -4,7 +4,7 @@
 
 Get a structured second opinion on a user's appeal: each part of the rule tested against the facts, the user's arguments weighed fairly, and a suggested reply.
 
-[Try it live](https://stevenmacchia.github.io/ts-workbench/#appeal) · runs on your own Claude account
+[Try it live](https://stevenmacchia.com/ts-workbench/#appeal) · runs on your own Claude account
 
 ## How it works
 

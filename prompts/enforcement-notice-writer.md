@@ -4,7 +4,7 @@
 
 Draft a clear, fair notice to a user whose content or account you actioned, and check it against what a statement of reasons needs to include.
 
-[Try it live](https://stevenmacchia.github.io/ts-workbench/#notice) · runs on your own Claude account
+[Try it live](https://stevenmacchia.com/ts-workbench/#notice) · runs on your own Claude account
 
 ## How it works
 
