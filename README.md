@@ -2,7 +2,7 @@
 
 > **Can AI take the first pass on the writing-heavy parts of Trust & Safety work, safely?**
 
-Three assistants for policy and enforcement work: stress-test a rule, write an enforcement notice, and get a second opinion on an appeal. A fourth, a transparency report drafter, is under construction. They run on the user's own Claude account, only when they click, and a person always makes the final call.
+Three assistants for policy and enforcement work: stress-test a rule, write an enforcement notice, and get a second opinion on an appeal. A fourth tool builds the transparency report the EU Digital Services Act asks for, section by section for your type of service, with a completeness check and a summary written by Claude. They run on the user's own Claude account, only when they click, and a person always makes the final call.
 
 **[Policy stress-tester](https://stevenmacchia.github.io/ts-workbench/#policy)** · **[Enforcement notice writer](https://stevenmacchia.github.io/ts-workbench/#notice)** · **[Appeal reviewer](https://stevenmacchia.github.io/ts-workbench/#appeal)** · part of [T&S Workbench](https://github.com/stevenmacchia/ts-workbench) · free, no sign-up
 
@@ -39,6 +39,10 @@ The tool's knowledge, published as open content you can read, reuse and adapt.
 ![notice](assets/notice.png)
 
 ![policy](assets/policy.png)
+
+![tr-report](assets/tr-report.png)
+
+![tr-check](assets/tr-check.png)
 
 ## How the AI is used
 
