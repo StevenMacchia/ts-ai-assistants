@@ -36,7 +36,11 @@ The tool's knowledge, published as open content you can read, reuse and adapt.
 
 ## More screenshots
 
+![notice-question](assets/notice-question.png)
+
 ![notice](assets/notice.png)
+
+![policy-guided](assets/policy-guided.png)
 
 ![policy](assets/policy.png)
 
